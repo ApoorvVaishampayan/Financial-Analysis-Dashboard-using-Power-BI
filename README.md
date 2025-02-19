@@ -1,4 +1,5 @@
-# 🌟 Financial Analysis Dashboard in Power BI 🌟 [Click here]([https://example.com](https://app.powerbi.com/view?r=eyJrIjoiMjE2YmE0OGQtYjk1My00Mjk3LWEwZGYtNjRjMzA1MjNiOGY2IiwidCI6Ijk2NzNlOWE4LWFhNTctNDQ2MS05MzM2LTVmZDNmMDAzNGUxOCIsImMiOjZ9))
+# 🌟 Financial Analysis Dashboard in Power BI 🌟 
+[View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMjE2YmE0OGQtYjk1My00Mjk3LWEwZGYtNjRjMzA1MjNiOGY2IiwidCI6Ijk2NzNlOWE4LWFhNTctNDQ2MS05MzM2LTVmZDNmMDAzNGUxOCIsImMiOjZ9)
 
 ### Transforming Financial Data into Strategic Insights
 
